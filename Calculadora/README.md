@@ -9,4 +9,3 @@ Currently, two official plugins are available:
 
 
 ![Screenshot do Projeto](./src/assets/calc.png)
-[Link para o projeto](https://clima-react-two.vercel.app)
